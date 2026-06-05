@@ -1,6 +1,6 @@
 This repository contains the trained Neural Network Model (NNM) and the synthetic lunar reflectance dataset.
 
-[ROLO_band_reflectance.HDF](https://github.com/ZhenhuaJing/NNM/releases/tag/v1.0.0): The comprehensive synthetic lunar reflectance dataset generated using the GIRO/ROLO model and NASA SPICE toolkit. It contains densely sampled geometric configurations and the corresponding 32-band lunar reflectance spectra.
+[ROLO_Reflectance.HDF](https://github.com/ZhenhuaJing/NNM/releases/tag/v1.0.0): The comprehensive synthetic lunar reflectance dataset generated using the GIRO/ROLO model and NASA SPICE toolkit. It contains densely sampled geometric configurations and the corresponding 32-band lunar reflectance spectra.
 
 [lunar_nnm.keras](https://github.com/ZhenhuaJing/NNM/releases/tag/v1.0.0): The trained Keras neural network model.
 
